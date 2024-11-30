@@ -54,7 +54,7 @@ This notebook provides the following:
 
 ## **How to Use**
 
-1. Clone this repository and open the notebook in **Jupyter Notebook** or **Google Colab**.  
+1. Clone this repository and open the notebook in **Jupyter Notebook** or **Google Colab**.  or open [directly](https://colab.research.google.com/drive/1dzYWHAezvHS3JWLmJtfR_fJYbl-BBMQA?usp=sharing)
 2. Follow the cells step-by-step to:
    - Install dependencies.
    - Prepare datasets.
